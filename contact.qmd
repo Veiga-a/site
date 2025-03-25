@@ -1,0 +1,143 @@
+---
+title: "Contact"
+subtitle: "Let's connect and discuss opportunities"
+---
+
+::: {.text-center .mb-5}
+## Get In Touch
+
+I'm always open to new opportunities, collaborations, or simply exchanging ideas about technology and development.
+:::
+
+::: {.contact-grid}
+::: {.contact-card .card}
+::: {.contact-icon}
+<i class="bi bi-linkedin"></i>
+:::
+
+### LinkedIn
+
+Connect with me professionally
+
+[Visit Profile](https://www.linkedin.com/in/joao-veiga1/){.btn .btn-primary .mt-3}
+:::
+
+::: {.contact-card .card}
+::: {.contact-icon}
+<i class="bi bi-github"></i>
+:::
+
+### GitHub
+
+See my projects and contributions
+
+[Visit GitHub](https://github.com/Veiga-a){.btn .btn-primary .mt-3}
+:::
+
+::: {.contact-card .card}
+::: {.contact-icon}
+<i class="bi bi-envelope"></i>
+:::
+
+### Email
+
+Get in touch directly
+
+[Send Email](mailto:jvicveiga@gmail.com){.btn .btn-primary .mt-3}
+:::
+:::
+
+## Send a Message
+
+::: {.contact-form}
+<form action="https://formspree.io/f/your-formspree-endpoint" method="POST">
+  <div class="mb-3">
+    <label for="name" class="form-label">Name</label>
+    <input type="text" class="form-control" id="name" name="name" required>
+  </div>
+  
+  <div class="mb-3">
+    <label for="email" class="form-label">Email</label>
+    <input type="email" class="form-control" id="email" name="email" required>
+  </div>
+  
+  <div class="mb-3">
+    <label for="subject" class="form-label">Subject</label>
+    <input type="text" class="form-control" id="subject" name="subject" required>
+  </div>
+  
+  <div class="mb-3">
+    <label for="message" class="form-label">Message</label>
+    <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Send Message</button>
+</form>
+:::
+
+## Availability
+
+::: {.card .mb-4}
+::: {.card-body}
+### Current Status
+
+I am currently working as a treasury intern at Faurecia while completing my Data Science degree. I am open to:
+
+- Full-time opportunities in back-end development
+- Remote work possibilities
+- International positions, particularly in Europe and Canada
+- Freelance projects and collaborations
+
+**Notice Period:** [Your notice period]
+
+**Preferred Start Date:** [Your availability]
+:::
+:::
+
+## FAQ
+
+::: {.accordion id="contactFAQ"}
+::: {.accordion-item}
+::: {.accordion-header id="headingOne"}
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+  Are you open to relocation?
+</button>
+:::
+::: {.accordion-collapse .collapse .show id="collapseOne" aria-labelledby="headingOne"}
+::: {.accordion-body}
+Yes, I am actively seeking opportunities abroad, particularly in Europe and Canada, and am fully prepared for relocation.
+:::
+:::
+:::
+
+::: {.accordion-item}
+::: {.accordion-header id="headingTwo"}
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+  What is your preferred work arrangement?
+</button>
+:::
+::: {.accordion-collapse .collapse id="collapseTwo" aria-labelledby="headingTwo"}
+::: {.accordion-body}
+I am flexible and open to both on-site and remote work arrangements, depending on the opportunity. For international positions, I am prepared to relocate.
+:::
+:::
+:::
+
+::: {.accordion-item}
+::: {.accordion-header id="headingThree"}
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+  How quickly can you respond to inquiries?
+</button>
+:::
+::: {.accordion-collapse .collapse id="collapseThree" aria-labelledby="headingThree"}
+::: {.accordion-body}
+I typically respond to all professional inquiries within 24-48 hours. For urgent matters, please indicate so in your message subject.
+:::
+:::
+:::
+:::
+
+::: {.text-center .mt-5}
+Thank you for your interest in connecting. I look forward to hearing from you!
+:::
+

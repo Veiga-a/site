@@ -1,11 +1,274 @@
 ---
-title: "local"
+title: "João Veiga"
+subtitle: "Back-End Developer & Data Science Student"
+page-layout: full
+toc: false
 ---
 
-This is a Quarto website.
+::: {.hero-section}
+![Profile Image](/placeholder.svg?height=180&width=180){.profile-img}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# João Veiga
 
-```{r}
-1 + 1
-```
+## Back-End Developer & Data Science Student
+
+Passionate about creating efficient and scalable back-end solutions. Currently pursuing a degree in Data Science and looking for international opportunities in Europe and Canada.
+
+::: {.d-flex .justify-content-center .gap-3}
+[View Projects]{.btn .btn-primary}
+[Contact Me]{.btn .btn-outline-primary}
+:::
+:::
+
+::: {.feature-grid}
+::: {.feature-card .card}
+::: {.feature-icon}
+<i class="bi bi-code-slash"></i>
+:::
+
+### Back-End Development
+
+Specialized in building robust and scalable server-side applications with modern technologies.
+:::
+
+::: {.feature-card .card}
+::: {.feature-icon}
+<i class="bi bi-database"></i>
+:::
+
+### Data Science
+
+Combining programming skills with data analysis to extract meaningful insights and build data-driven solutions.
+:::
+
+::: {.feature-card .card}
+::: {.feature-icon}
+<i class="bi bi-globe"></i>
+:::
+
+### Global Mindset
+
+Seeking international opportunities to expand my professional horizons and collaborate with diverse teams.
+:::
+:::
+
+## Featured Projects
+
+::: {.project-grid}
+::: {.card .project-card}
+![Project Image](/placeholder.svg?height=200&width=400){.project-img}
+
+::: {.card-body .project-body}
+### Project Name
+
+::: {.project-tags}
+[Python]{.tag}
+[Django]{.tag}
+[PostgreSQL]{.tag}
+:::
+
+Brief description of the project, highlighting the problem solved and the main features implemented.
+
+::: {.project-links}
+[Demo]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+
+::: {.card .project-card}
+![Project Image](/placeholder.svg?height=200&width=400){.project-img}
+
+::: {.card-body .project-body}
+### Project Name
+
+::: {.project-tags}
+[Node.js]{.tag}
+[Express]{.tag}
+[MongoDB]{.tag}
+:::
+
+Brief description of the project, highlighting the problem solved and the main features implemented.
+
+::: {.project-links}
+[Demo]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+:::
+
+## My Skills
+
+::: {.row}
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Python <span class="skill-level">90%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 90%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+JavaScript <span class="skill-level">85%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+SQL <span class="skill-level">80%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Node.js <span class="skill-level">85%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Django <span class="skill-level">80%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Docker <span class="skill-level">75%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 75%"}
+:::
+:::
+:::
+:::
+:::
+
+::: {.text-center .mt-4}
+[View All Skills]{.btn .btn-primary}
+:::
+
+## Experience
+
+::: {.timeline}
+::: {.timeline-item .timeline-left}
+::: {.timeline-content}
+::: {.timeline-date}
+2023 - Present
+:::
+
+### Treasury Intern
+#### Faurecia
+
+Responsible for cash flow analysis, bank reconciliation, and financial reporting. Developed analytical skills and attention to detail that complement my technical background.
+:::
+:::
+
+::: {.timeline-item .timeline-right}
+::: {.timeline-content}
+::: {.timeline-date}
+2021 - Present
+:::
+
+### Data Science Student
+#### FAE Centro Universitário
+
+Currently in the 5th semester, focusing on data analysis, machine learning, and statistical modeling.
+:::
+:::
+:::
+
+::: {.text-center .mt-4}
+[View Full Experience]{.btn .btn-primary}
+:::
+
+## International Aspirations
+
+::: {.highlight-box}
+I'm actively seeking opportunities to work abroad, particularly in Europe and Canada, to expand my professional horizons and collaborate with diverse teams on innovative projects.
+:::
+
+::: {.region-grid .row}
+::: {.col-md-6}
+::: {.region-card}
+#### Europe
+
+Interested in countries like Portugal, Germany, Netherlands, and Nordic countries, known for their vibrant tech ecosystems and quality of life.
+:::
+:::
+
+::: {.col-md-6}
+::: {.region-card}
+#### Canada
+
+Attracted by the strong tech industry, favorable immigration policies for skilled professionals, and multicultural environment.
+:::
+:::
+:::
+
+::: {.text-center .mt-4}
+[Learn More About My Global Career Goals]{.btn .btn-primary}
+:::
+
+## Get In Touch
+
+::: {.contact-grid}
+::: {.contact-card .card}
+::: {.contact-icon}
+<i class="bi bi-linkedin"></i>
+:::
+
+### LinkedIn
+
+Connect with me professionally
+
+[Visit Profile](https://www.linkedin.com/in/joao-veiga1/){.btn .btn-primary .mt-3}
+:::
+
+::: {.contact-card .card}
+::: {.contact-icon}
+<i class="bi bi-github"></i>
+:::
+
+### GitHub
+
+See my projects and contributions
+
+[Visit GitHub](https://github.com/Veiga-a/){.btn .btn-primary .mt-3}
+:::
+
+::: {.contact-card .card}
+::: {.contact-icon}
+<i class="bi bi-envelope"></i>
+:::
+
+### Email
+
+Get in touch directly
+
+[Send Email](mailto:jvicveiga@gmail.com){.btn .btn-primary .mt-3}
+:::
+:::
+

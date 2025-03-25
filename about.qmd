@@ -1,9 +1,178 @@
 ---
-title: "About"
+title: "About Me"
+subtitle: "My journey, skills, and aspirations"
 ---
 
-About this site
+::: {.about-grid}
+::: {.about-image}
+![Profile Image](/placeholder.svg?height=300&width=300){.profile-img}
+:::
 
-```{r}
-1 + 1
-```
+::: {.about-content}
+## Hello, I'm João!
+
+I'm a back-end developer and data science student currently in my 5th semester at FAE Centro Universitário. My journey in technology began with [how you started] and since then I've been improving my skills in various technologies and methodologies.
+
+Currently, I work as a treasury intern at Faurecia, where I develop analytical and financial management skills that complement my technical education.
+
+### My Vision
+
+I constantly seek to improve my technical and soft skills to become a well-rounded professional. I have a strong interest in working abroad, especially in Europe or Canada, where I can expand my professional and cultural horizons.
+
+### Outside of Work
+
+[Hobbies, interests, activities that show your personality]
+:::
+:::
+
+## My Journey
+
+::: {.timeline}
+::: {.timeline-item .timeline-left}
+::: {.timeline-content}
+::: {.timeline-date}
+2023 - Present
+:::
+
+### Treasury Intern
+#### Faurecia
+
+As a treasury intern, I develop analytical and financial management skills that complement my technical education in development and data science.
+
+**Key Responsibilities:**
+- Cash flow analysis and bank reconciliation
+- Development of financial reports using analytical tools
+- Process automation using [tools/languages]
+- Collaboration with cross-functional teams for process optimization
+
+**Transferable Skills to Development:**
+- Data analysis and pattern identification
+- Systematic problem solving
+- Attention to detail and accuracy
+- Technical communication with diverse stakeholders
+:::
+:::
+
+::: {.timeline-item .timeline-right}
+::: {.timeline-content}
+::: {.timeline-date}
+2021 - Present
+:::
+
+### Data Science Degree
+#### FAE Centro Universitário
+
+Currently in the 5th semester, focusing on [areas of interest].
+
+**Key Courses:**
+- Database Management
+- Statistical Analysis
+- Machine Learning
+- Data Visualization
+- Programming for Data Science
+:::
+:::
+
+::: {.timeline-item .timeline-left}
+::: {.timeline-content}
+::: {.timeline-date}
+[Previous Experience Date]
+:::
+
+### [Previous Role]
+#### [Previous Company]
+
+Brief description of your responsibilities and achievements.
+:::
+:::
+:::
+
+## Education
+
+::: {.card .mb-4}
+::: {.card-body}
+### Bachelor's in Data Science
+#### FAE Centro Universitário
+##### 2021 - Present (Expected graduation: 2025)
+
+- GPA: [Your GPA if applicable]
+- Relevant coursework: [List key courses]
+- Projects: [Highlight academic projects]
+:::
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+### [Other Education]
+#### [Institution]
+##### [Years]
+
+- [Details]
+:::
+:::
+
+## Certifications
+
+::: {.row}
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### [Certification Name]
+#### [Issuing Organization]
+##### [Date]
+
+Brief description of what you learned and skills acquired.
+:::
+:::
+:::
+
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### [Certification Name]
+#### [Issuing Organization]
+##### [Date]
+
+Brief description of what you learned and skills acquired.
+:::
+:::
+:::
+:::
+
+## Languages
+
+::: {.row}
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body .text-center}
+### Portuguese
+Native
+:::
+:::
+:::
+
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body .text-center}
+### English
+[Your level - e.g., Fluent, B2, etc.]
+:::
+:::
+:::
+
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body .text-center}
+### [Other Language]
+[Your level]
+:::
+:::
+:::
+:::
+
+## Personal Values
+
+::: {.highlight-box}
+I believe in continuous learning, collaboration, and creating solutions that make a positive impact. My approach to work is characterized by attention to detail, analytical thinking, and a commitment to quality.
+:::
+

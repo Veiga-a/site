@@ -1,0 +1,256 @@
+---
+title: "Global Career"
+subtitle: "My international aspirations and preparation"
+---
+
+## My Global Vision
+
+::: {.highlight-box}
+I am actively seeking opportunities to work abroad, particularly in Europe and Canada, to expand my professional horizons and collaborate with diverse teams on innovative projects.
+:::
+
+## Why International Experience?
+
+My interest in working abroad is motivated by several factors:
+
+::: {.row}
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Professional Growth
+
+Working in international tech hubs provides exposure to cutting-edge technologies, diverse approaches to problem-solving, and opportunities to work on projects with global impact.
+:::
+:::
+:::
+
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Cultural Exchange
+
+Immersion in different cultures enhances adaptability, communication skills, and provides a broader perspective on both professional and personal levels.
+:::
+:::
+:::
+
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Global Network
+
+Building an international network of contacts and colleagues creates opportunities for collaboration, knowledge sharing, and career advancement.
+:::
+:::
+:::
+
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Personal Development
+
+Navigating life in a new country develops resilience, independence, and problem-solving skills that are valuable both personally and professionally.
+:::
+:::
+:::
+:::
+
+## Regions of Interest
+
+::: {.region-card}
+### Europe
+
+I'm particularly interested in countries like Portugal, Germany, Netherlands, and Nordic countries, known for their vibrant tech ecosystems and quality of life.
+
+**Why Europe:**
+- Strong tech industry with numerous opportunities for back-end developers
+- Excellent work-life balance and quality of life
+- Rich cultural heritage and diversity
+- Proximity to other European tech hubs for networking and professional growth
+
+**Target Countries:**
+- **Portugal**: Cultural and language similarities, growing tech scene
+- **Germany**: Strong economy, tech leadership, particularly in Berlin and Munich
+- **Netherlands**: English-friendly environment, innovative tech companies
+- **Nordic Countries**: Progressive work culture, strong emphasis on innovation
+:::
+
+::: {.region-card}
+### Canada
+
+I'm attracted by Canada's strong tech industry, favorable immigration policies for skilled professionals, and multicultural environment.
+
+**Why Canada:**
+- Thriving tech industry, particularly in Toronto, Vancouver, and Montreal
+- Welcoming immigration policies for skilled tech workers
+- High quality of life and excellent healthcare and education systems
+- Multicultural society with diverse communities
+
+**Target Cities:**
+- **Toronto**: Canada's largest tech hub with numerous opportunities
+- **Vancouver**: Growing tech scene with focus on innovation
+- **Montreal**: Strong in AI and machine learning
+- **Ottawa**: Government and tech opportunities
+:::
+
+## Preparation for International Career
+
+::: {.row}
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Language Skills
+
+**English**: [Your level - e.g., Fluent, B2, etc.]
+- [Certification if applicable]
+- Regularly practice through [methods you use]
+
+**Other Languages**: [If applicable]
+- [Details]
+:::
+:::
+:::
+
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### International Certifications
+
+- [List relevant international certifications]
+- [Plans for future certifications]
+
+These certifications are recognized globally and demonstrate my expertise in [relevant areas].
+:::
+:::
+:::
+
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Global Industry Knowledge
+
+I stay updated on international tech trends and industry standards through:
+- Following international tech blogs and news sources
+- Participating in global webinars and virtual conferences
+- Networking with professionals working abroad
+:::
+:::
+:::
+
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Cultural Preparation
+
+I've been preparing for cultural adaptation through:
+- Learning about business cultures in target countries
+- Connecting with expatriates and international professionals
+- Studying international business etiquette and communication styles
+:::
+:::
+:::
+:::
+
+## What I Offer to International Employers
+
+::: {.highlight-box}
+As a Brazilian professional seeking international opportunities, I bring a unique perspective and valuable skills to global teams.
+:::
+
+::: {.row}
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Technical Expertise
+
+Strong back-end development skills combined with data science knowledge, allowing me to build robust, data-driven solutions.
+:::
+:::
+:::
+
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Adaptability
+
+Experience navigating different environments and quick to learn new technologies, methodologies, and cultural contexts.
+:::
+:::
+:::
+
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Fresh Perspective
+
+Unique viewpoint shaped by Brazilian education and work experience that can contribute to diverse and innovative problem-solving.
+:::
+:::
+:::
+
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Cross-functional Experience
+
+Background in both treasury and technology provides insights into business operations and technical implementation.
+:::
+:::
+:::
+
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Continuous Learning
+
+Commitment to ongoing professional development and staying current with industry trends and technologies.
+:::
+:::
+:::
+
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body}
+### Collaborative Mindset
+
+Experience working in teams and communicating effectively across different roles and departments.
+:::
+:::
+:::
+:::
+
+## Immigration Considerations
+
+::: {.card .mb-4}
+::: {.card-body}
+### Work Visas & Permits
+
+I've researched visa requirements for my target countries and am prepared to navigate the application process:
+
+- **Europe**: Familiar with EU Blue Card requirements and country-specific skilled worker visas
+- **Canada**: Researched Express Entry system and Provincial Nominee Programs
+
+I understand the documentation needed and am preparing accordingly.
+:::
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+### Relocation Readiness
+
+I am fully prepared for relocation, including:
+
+- Flexibility regarding start dates
+- Willingness to relocate at my own expense if necessary
+- Research on housing, cost of living, and practical aspects of moving abroad
+:::
+:::
+
+## Connect for International Opportunities
+
+::: {.text-center .my-5}
+If you're an international employer looking for a dedicated back-end developer with data science skills, or if you have insights about working abroad in tech, I'd love to connect!
+
+[Contact Me]{.btn .btn-lg .btn-primary}
+:::
+

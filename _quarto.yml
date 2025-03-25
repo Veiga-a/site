@@ -1,20 +1,51 @@
 project:
   type: website
-  output-dir: "."
+  output-dir: _site
 
 website:
-  title: "local"
+  title: "João Veiga | Back-End Developer"
+  favicon: "images/favicon.png"
+  page-navigation: true
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: skills.qmd
+        text: Skills
+      - href: projects.qmd
+        text: Projects
+      - href: international.qmd
+        text: Global Career
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    center: 
+      - text: "© 2024 João Veiga. All rights reserved."
+    right:
+      - icon: github
+        href: https://github.com/Veiga-a/site
+      - icon: linkedin
+        href: https://www.linkedin.com/in/joao-veiga1/
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, custom.scss]
     css: styles.css
     toc: true
-
-editor: visual
+    page-layout: full
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    mainfont: "Inter, sans-serif"
+    monofont: "Fira Code, monospace"
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 

@@ -1,0 +1,427 @@
+---
+title: "Skills"
+subtitle: "My technical expertise and competencies"
+---
+
+## Technical Skills
+
+### Programming Languages
+
+::: {.row}
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Python <span class="skill-level">90%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 90%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+JavaScript <span class="skill-level">85%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+SQL <span class="skill-level">80%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Java <span class="skill-level">70%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 70%"}
+:::
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+TypeScript <span class="skill-level">75%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 75%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+C# <span class="skill-level">65%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 65%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+PHP <span class="skill-level">60%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 60%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+R <span class="skill-level">55%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 55%"}
+:::
+:::
+:::
+:::
+:::
+
+### Frameworks & Libraries
+
+::: {.row}
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Django <span class="skill-level">85%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Flask <span class="skill-level">80%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Express.js <span class="skill-level">80%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Node.js <span class="skill-level">85%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Spring Boot <span class="skill-level">65%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 65%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+ASP.NET <span class="skill-level">60%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 60%"}
+:::
+:::
+:::
+:::
+:::
+
+### Databases
+
+::: {.row}
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+PostgreSQL <span class="skill-level">85%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+MySQL <span class="skill-level">80%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+MongoDB <span class="skill-level">75%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 75%"}
+:::
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Redis <span class="skill-level">70%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 70%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+SQLite <span class="skill-level">75%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 75%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Elasticsearch <span class="skill-level">65%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 65%"}
+:::
+:::
+:::
+:::
+:::
+
+### DevOps & Tools
+
+::: {.row}
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Docker <span class="skill-level">80%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Git <span class="skill-level">90%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 90%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+CI/CD <span class="skill-level">75%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 75%"}
+:::
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+AWS <span class="skill-level">70%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 70%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Kubernetes <span class="skill-level">65%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 65%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Linux <span class="skill-level">85%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+:::
+:::
+
+## Data Science Skills
+
+::: {.row}
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Data Analysis <span class="skill-level">85%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 85%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Machine Learning <span class="skill-level">75%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 75%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Data Visualization <span class="skill-level">80%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 80%"}
+:::
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Statistical Analysis <span class="skill-level">75%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 75%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Big Data <span class="skill-level">65%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 65%"}
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+ETL Processes <span class="skill-level">70%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="width: 70%"}
+:::
+:::
+:::
+:::
+:::
+
+## Soft Skills
+
+::: {.row}
+::: {.col-md-6}
+::: {.card .mb-4}
+::: {.card-body}
+### Problem Solving
+Ability to analyze complex issues, identify patterns, and develop effective solutions.
+:::
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+### Communication
+Clear and effective communication of technical concepts to both technical and non-technical stakeholders.
+:::
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+### Teamwork
+Experience collaborating in cross-functional teams and contributing to collective goals.
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.card .mb-4}
+::: {.card-body}
+### Adaptability
+Quick to learn new technologies and adjust to changing requirements.
+:::
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+### Time Management
+Efficient prioritization of tasks and meeting deadlines in fast-paced environments.
+:::
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+### Attention to Detail
+Meticulous approach to code quality, testing, and documentation.
+:::
+:::
+:::
+:::
+
+## Professional Development
+
+::: {.highlight-box}
+I am committed to continuous learning and staying updated with the latest technologies and best practices in back-end development and data science. Some of my recent learning initiatives include:
+
+- [Recent course or certification]
+- [Technology you're currently learning]
+- [Professional development activity]
+:::
+

@@ -1,0 +1,267 @@
+---
+title: "Projects"
+subtitle: "Showcasing my technical skills and problem-solving abilities"
+---
+
+## Featured Projects
+
+::: {.project-grid}
+::: {.card .project-card}
+![Project Image](/placeholder.svg?height=200&width=400){.project-img}
+
+::: {.card-body .project-body}
+### Project Name
+
+::: {.project-tags}
+[Python]{.tag}
+[Django]{.tag}
+[PostgreSQL]{.tag}
+:::
+
+Brief description of the project, highlighting the problem solved and the main features implemented. Explain your role, the technologies used, and the outcomes achieved.
+
+**Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+**Technical Challenges:**
+Brief description of challenges faced and how you overcame them.
+
+::: {.project-links}
+[Demo]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+
+::: {.card .project-card}
+![Project Image](/placeholder.svg?height=200&width=400){.project-img}
+
+::: {.card-body .project-body}
+### Project Name
+
+::: {.project-tags}
+[Node.js]{.tag}
+[Express]{.tag}
+[MongoDB]{.tag}
+:::
+
+Brief description of the project, highlighting the problem solved and the main features implemented. Explain your role, the technologies used, and the outcomes achieved.
+
+**Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+**Technical Challenges:**
+Brief description of challenges faced and how you overcame them.
+
+::: {.project-links}
+[Demo]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+
+::: {.card .project-card}
+![Project Image](/placeholder.svg?height=200&width=400){.project-img}
+
+::: {.card-body .project-body}
+### Project Name
+
+::: {.project-tags}
+[Java]{.tag}
+[Spring Boot]{.tag}
+[MySQL]{.tag}
+:::
+
+Brief description of the project, highlighting the problem solved and the main features implemented. Explain your role, the technologies used, and the outcomes achieved.
+
+**Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+**Technical Challenges:**
+Brief description of challenges faced and how you overcame them.
+
+::: {.project-links}
+[Demo]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+
+::: {.card .project-card}
+![Project Image](/placeholder.svg?height=200&width=400){.project-img}
+
+::: {.card-body .project-body}
+### Project Name
+
+::: {.project-tags}
+[Python]{.tag}
+[Flask]{.tag}
+[SQLite]{.tag}
+:::
+
+Brief description of the project, highlighting the problem solved and the main features implemented. Explain your role, the technologies used, and the outcomes achieved.
+
+**Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+**Technical Challenges:**
+Brief description of challenges faced and how you overcame them.
+
+::: {.project-links}
+[Demo]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+:::
+
+## Data Science Projects
+
+::: {.project-grid}
+::: {.card .project-card}
+![Project Image](/placeholder.svg?height=200&width=400){.project-img}
+
+::: {.card-body .project-body}
+### Data Analysis Project
+
+::: {.project-tags}
+[Python]{.tag}
+[Pandas]{.tag}
+[Matplotlib]{.tag}
+:::
+
+Brief description of the data analysis project, including the dataset used, the questions explored, and the insights gained.
+
+**Key Components:**
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Visualization and insights
+
+::: {.project-links}
+[Report]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+
+::: {.card .project-card}
+![Project Image](/placeholder.svg?height=200&width=400){.project-img}
+
+::: {.card-body .project-body}
+### Machine Learning Project
+
+::: {.project-tags}
+[Python]{.tag}
+[Scikit-learn]{.tag}
+[TensorFlow]{.tag}
+:::
+
+Brief description of the machine learning project, including the problem statement, model selection, and evaluation metrics.
+
+**Key Components:**
+- Feature engineering
+- Model training and validation
+- Performance evaluation
+
+::: {.project-links}
+[Demo]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+:::
+
+## Open Source Contributions
+
+::: {.highlight-box}
+I actively contribute to open source projects to collaborate with the developer community and improve my skills. Here are some of my notable contributions:
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+### Project Name
+
+Brief description of the open source project and your contributions.
+
+**Contributions:**
+- Pull request 1: Brief description
+- Pull request 2: Brief description
+- Issue resolution: Brief description
+
+[View Project]{.btn .btn-sm .btn-primary}
+:::
+:::
+
+::: {.card .mb-4}
+::: {.card-body}
+### Project Name
+
+Brief description of the open source project and your contributions.
+
+**Contributions:**
+- Pull request 1: Brief description
+- Pull request 2: Brief description
+- Issue resolution: Brief description
+
+[View Project]{.btn .btn-sm .btn-primary}
+:::
+:::
+
+## Academic Projects
+
+::: {.project-grid}
+::: {.card .project-card}
+::: {.card-body .project-body}
+### Academic Project Name
+
+::: {.project-tags}
+[Course Name]{.tag}
+[Technology]{.tag}
+:::
+
+Brief description of the academic project, including the course it was part of, the objectives, and the outcomes.
+
+**Key Components:**
+- Component 1
+- Component 2
+- Component 3
+
+::: {.project-links}
+[Report]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+
+::: {.card .project-card}
+::: {.card-body .project-body}
+### Academic Project Name
+
+::: {.project-tags}
+[Course Name]{.tag}
+[Technology]{.tag}
+:::
+
+Brief description of the academic project, including the course it was part of, the objectives, and the outcomes.
+
+**Key Components:**
+- Component 1
+- Component 2
+- Component 3
+
+::: {.project-links}
+[Report]{.btn .btn-sm .btn-primary}
+[GitHub]{.btn .btn-sm .btn-outline-primary}
+:::
+:::
+:::
+:::
+
