@@ -9,9 +9,9 @@ subtitle: "My journey, skills, and aspirations"
 :::
 
 ::: {.about-content}
-## Hello, I'm João!
+## Hello, my name is João Victor!
 
-I'm a back-end developer and data science student currently in my 5th semester at FAE Centro Universitário. My journey in technology began with [how you started] and since then I've been improving my skills in various technologies and methodologies.
+I'm a data science student currently in my 5th semester at FAE Centro Universitário. My journey in technology began with ever since I was a kid, and since then I've been improving my skills in various technologies and methodologies.
 
 Currently, I work as a treasury intern at Faurecia, where I develop analytical and financial management skills that complement my technical education.
 
@@ -21,7 +21,7 @@ I constantly seek to improve my technical and soft skills to become a well-round
 
 ### Outside of Work
 
-[Hobbies, interests, activities that show your personality]
+During my free time, I love staying active at the gym, unwinding with games or shows, and expressing myself through the piano. I have a deep fascination with the universe—black holes, in particular, truly captivate me
 :::
 :::
 
@@ -41,15 +41,9 @@ As a treasury intern, I develop analytical and financial management skills that 
 
 **Key Responsibilities:**
 - Cash flow analysis and bank reconciliation
-- Development of financial reports using analytical tools
-- Process automation using [tools/languages]
+- Development of financial reports using Excel and SAP
 - Collaboration with cross-functional teams for process optimization
 
-**Transferable Skills to Development:**
-- Data analysis and pattern identification
-- Systematic problem solving
-- Attention to detail and accuracy
-- Technical communication with diverse stakeholders
 :::
 :::
 
@@ -62,7 +56,7 @@ As a treasury intern, I develop analytical and financial management skills that 
 ### Data Science Degree
 #### FAE Centro Universitário
 
-Currently in the 5th semester, focusing on [areas of interest].
+Currently in the 5th semester, focusing on finances and back-end development.
 
 **Key Courses:**
 - Database Management
@@ -72,20 +66,9 @@ Currently in the 5th semester, focusing on [areas of interest].
 - Programming for Data Science
 :::
 :::
-
-::: {.timeline-item .timeline-left}
-::: {.timeline-content}
-::: {.timeline-date}
-[Previous Experience Date]
 :::
 
-### [Previous Role]
-#### [Previous Company]
 
-Brief description of your responsibilities and achievements.
-:::
-:::
-:::
 
 ## Education
 
@@ -93,21 +76,13 @@ Brief description of your responsibilities and achievements.
 ::: {.card-body}
 ### Bachelor's in Data Science
 #### FAE Centro Universitário
-##### 2021 - Present (Expected graduation: 2025)
+##### 2022 - Present (Expected graduation: 2026)
 
-- GPA: [Your GPA if applicable]
 - Relevant coursework: [List key courses]
-- Projects: [Highlight academic projects]
-:::
-:::
-
-::: {.card .mb-4}
-::: {.card-body}
-### [Other Education]
-#### [Institution]
-##### [Years]
-
-- [Details]
+- Projects: 
+    1. Implementation of an AI-driven solution that enables stock team members to independently build customized dashboards for tracking the production line.
+    2. Development of a dashboard aimed at generating strategic insights into innovation within a specific city, supporting efforts to attract potential investors through data visualization and analysis.
+    3. Analysis of people analytics data to support data-driven decision-making regarding employee hour banks, with the goal of improving workforce efficiency and operational management.
 :::
 :::
 
@@ -117,11 +92,11 @@ Brief description of your responsibilities and achievements.
 ::: {.col-md-6 .mb-4}
 ::: {.card .h-100}
 ::: {.card-body}
-### [Certification Name]
-#### [Issuing Organization]
-##### [Date]
+### Criando painéis e indicadores com planilhas Google e Looker Studio
+#### Google
+##### 2023
 
-Brief description of what you learned and skills acquired.
+Developed skills in creating dashboards and KPIs with Google Sheets and Looker Studio.
 :::
 :::
 :::
@@ -129,11 +104,11 @@ Brief description of what you learned and skills acquired.
 ::: {.col-md-6 .mb-4}
 ::: {.card .h-100}
 ::: {.card-body}
-### [Certification Name]
-#### [Issuing Organization]
-##### [Date]
+### Curso de Programação e Robótica para Kids & Teens
+#### Super Geeks
+##### Date
 
-Brief description of what you learned and skills acquired.
+Acquired basic programming and robotics skills through practical, project-based learning.
 :::
 :::
 :::
@@ -155,7 +130,7 @@ Native
 ::: {.card .h-100}
 ::: {.card-body .text-center}
 ### English
-[Your level - e.g., Fluent, B2, etc.]
+C1
 :::
 :::
 :::
@@ -163,8 +138,8 @@ Native
 ::: {.col-md-4 .mb-4}
 ::: {.card .h-100}
 ::: {.card-body .text-center}
-### [Other Language]
-[Your level]
+### Spanish
+B1
 :::
 :::
 :::

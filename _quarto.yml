@@ -3,7 +3,7 @@ project:
   output-dir: .
 
 website:
-  title: "João Veiga | Back-End Developer"
+  title: "João Victor | Back-End Developer"
   favicon: "images/favicon.png"
   page-navigation: true
   navbar:

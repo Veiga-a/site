@@ -1,14 +1,14 @@
 ---
-title: "João Veiga"
+title: "João Victor"
 subtitle: "Back-End Developer & Data Science Student"
 page-layout: full
 toc: false
 ---
 
 ::: {.hero-section}
-![Profile Image](/placeholder.svg?height=180&width=180){.profile-img}
+![](/placeholder.svg?height=180&width=180){.profile-img}
 
-<h1 class="hero-name">João Veiga</h1>
+<h1 class="hero-name">João Victor</h1>
 
 ## Back-End Developer & Data Science Student
 
@@ -104,20 +104,20 @@ Brief description of the project, highlighting the problem solved and the main f
 ::: {.col-md-6}
 ::: {.skill-container}
 ::: {.skill-name}
-Python <span class="skill-level">90%</span>
+Python <span class="skill-level">75%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 90%"}
+::: {.skill-progress style="--skill-width: 75%"}
 :::
 :::
 :::
 
 ::: {.skill-container}
 ::: {.skill-name}
-JavaScript <span class="skill-level">85%</span>
+R <span class="skill-level">70%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 85%"}
+::: {.skill-progress style="--skill-width: 70%"}
 :::
 :::
 :::
@@ -132,38 +132,6 @@ SQL <span class="skill-level">80%</span>
 :::
 :::
 
-::: {.col-md-6}
-::: {.skill-container}
-::: {.skill-name}
-Node.js <span class="skill-level">85%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 85%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-Django <span class="skill-level">80%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 80%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-Docker <span class="skill-level">75%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 75%"}
-:::
-:::
-:::
-:::
-:::
 
 ::: {.text-center .mt-4}
 [View All Skills]{.btn .btn-primary}
@@ -175,7 +143,7 @@ Docker <span class="skill-level">75%</span>
 ::: {.timeline-item .timeline-left}
 ::: {.timeline-content}
 ::: {.timeline-date}
-2023 - Present
+2024 - Present
 :::
 
 ### Treasury Intern
@@ -228,7 +196,7 @@ Attracted by the strong tech industry, favorable immigration policies for skille
 :::
 
 ::: {.text-center .mt-4}
-[Learn More About My Global Career Goals]{.btn .btn-primary}
+[My Global Career Goals]{.btn .btn-primary}
 :::
 
 ## Get In Touch

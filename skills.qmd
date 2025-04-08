@@ -11,20 +11,20 @@ subtitle: "My technical expertise and competencies"
 ::: {.col-md-6}
 ::: {.skill-container}
 ::: {.skill-name}
-Python <span class="skill-level">90%</span>
+Python <span class="skill-level">75%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 90%"}
+::: {.skill-progress style="--skill-width: 75%"}
 :::
 :::
 :::
 
 ::: {.skill-container}
 ::: {.skill-name}
-JavaScript <span class="skill-level">85%</span>
+R <span class="skill-level">70%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 85%"}
+::: {.skill-progress style="--skill-width: 70%"}
 :::
 :::
 :::
@@ -39,127 +39,6 @@ SQL <span class="skill-level">80%</span>
 :::
 :::
 
-::: {.skill-container}
-::: {.skill-name}
-Java <span class="skill-level">70%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 70%"}
-:::
-:::
-:::
-:::
-
-::: {.col-md-6}
-::: {.skill-container}
-::: {.skill-name}
-TypeScript <span class="skill-level">75%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 75%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-C# <span class="skill-level">65%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 65%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-PHP <span class="skill-level">60%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 60%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-R <span class="skill-level">55%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 55%"}
-:::
-:::
-:::
-:::
-:::
-
-### Frameworks & Libraries
-
-::: {.row}
-::: {.col-md-6}
-::: {.skill-container}
-::: {.skill-name}
-Django <span class="skill-level">85%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 85%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-Flask <span class="skill-level">80%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 80%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-Express.js <span class="skill-level">80%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 80%"}
-:::
-:::
-:::
-:::
-
-::: {.col-md-6}
-::: {.skill-container}
-::: {.skill-name}
-Node.js <span class="skill-level">85%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 85%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-Spring Boot <span class="skill-level">65%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 65%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-ASP.NET <span class="skill-level">60%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 60%"}
-:::
-:::
-:::
-:::
-:::
 
 ### Databases
 
@@ -196,27 +75,6 @@ MongoDB <span class="skill-level">75%</span>
 :::
 :::
 
-::: {.col-md-6}
-::: {.skill-container}
-::: {.skill-name}
-Redis <span class="skill-level">70%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 70%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-SQLite <span class="skill-level">75%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 75%"}
-:::
-:::
-:::
-
 ::: {.skill-container}
 ::: {.skill-name}
 Elasticsearch <span class="skill-level">65%</span>
@@ -231,18 +89,6 @@ Elasticsearch <span class="skill-level">65%</span>
 
 ### DevOps & Tools
 
-::: {.row}
-::: {.col-md-6}
-::: {.skill-container}
-::: {.skill-name}
-Docker <span class="skill-level">80%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 80%"}
-:::
-:::
-:::
-
 ::: {.skill-container}
 ::: {.skill-name}
 Git <span class="skill-level">90%</span>
@@ -255,44 +101,10 @@ Git <span class="skill-level">90%</span>
 
 ::: {.skill-container}
 ::: {.skill-name}
-CI/CD <span class="skill-level">75%</span>
+Linux <span class="skill-level">40%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 75%"}
-:::
-:::
-:::
-:::
-
-::: {.col-md-6}
-::: {.skill-container}
-::: {.skill-name}
-AWS <span class="skill-level">70%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 70%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-Kubernetes <span class="skill-level">65%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 65%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
-Linux <span class="skill-level">85%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 85%"}
-:::
-:::
+::: {.skill-progress style="--skill-width: 40%"}
 :::
 :::
 :::
@@ -313,10 +125,10 @@ Data Analysis <span class="skill-level">85%</span>
 
 ::: {.skill-container}
 ::: {.skill-name}
-Machine Learning <span class="skill-level">75%</span>
+Machine Learning <span class="skill-level">70%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 75%"}
+::: {.skill-progress style="--skill-width: 70%"}
 :::
 :::
 :::
@@ -360,6 +172,39 @@ ETL Processes <span class="skill-level">70%</span>
 ::: {.skill-bar}
 ::: {.skill-progress style="--skill-width: 70%"}
 :::
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Excel <span class="skill-level">65%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="--skill-width: 65%"}
+:::
+:::
+:::
+:::
+
+::: {.skill-container}
+::: {.skill-name}
+Power BI <span class="skill-level">85%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="--skill-width: 85%"}
+:::
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.skill-container}
+::: {.skill-name}
+Looker Studio <span class="skill-level">80%</span>
+:::
+::: {.skill-bar}
+::: {.skill-progress style="--skill-width: 80%"}
 :::
 :::
 :::
