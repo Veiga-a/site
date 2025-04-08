@@ -56,16 +56,6 @@ PostgreSQL <span class="skill-level">85%</span>
 
 ::: {.skill-container}
 ::: {.skill-name}
-MySQL <span class="skill-level">80%</span>
-:::
-::: {.skill-bar}
-::: {.skill-progress style="--skill-width: 80%"}
-:::
-:::
-:::
-
-::: {.skill-container}
-::: {.skill-name}
 MongoDB <span class="skill-level">75%</span>
 :::
 ::: {.skill-bar}

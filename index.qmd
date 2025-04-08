@@ -30,7 +30,7 @@ Passionate about creating efficient and scalable back-end solutions. Currently p
 
 Specialized in building robust and scalable server-side applications with modern technologies.
 :::
-
+  
 ::: {.feature-card .card .glass-card}
 ::: {.feature-icon}
 <i class="bi bi-database"></i>
@@ -75,7 +75,7 @@ Brief description of the project, highlighting the problem solved and the main f
 :::
 :::
 :::
-
+  
 ::: {.card .project-card}
 ![Project Image](/placeholder.svg?height=200&width=400){.project-img}
 
@@ -102,6 +102,7 @@ Brief description of the project, highlighting the problem solved and the main f
 
 ::: {.row}
 ::: {.col-md-6}
+
 ::: {.skill-container}
 ::: {.skill-name}
 Python <span class="skill-level">75%</span>
@@ -121,6 +122,7 @@ R <span class="skill-level">70%</span>
 :::
 :::
 :::
+
 ::: {.skill-container}
 ::: {.skill-name}
 SQL <span class="skill-level">80%</span>
@@ -131,7 +133,7 @@ SQL <span class="skill-level">80%</span>
 :::
 :::
 :::
-
+:::
 
 ::: {.text-center .mt-4}
 [View All Skills]{.btn .btn-primary}
@@ -213,7 +215,7 @@ Connect with me professionally
 
 [Visit Profile](https://www.linkedin.com/in/joao-veiga1/){.btn .btn-primary .mt-3}
 :::
-
+  
 ::: {.contact-card .card}
 ::: {.contact-icon}
 <i class="bi bi-github"></i>
@@ -238,4 +240,3 @@ Get in touch directly
 [Send Email](mailto:your-email@example.com){.btn .btn-primary .mt-3}
 :::
 :::
-
