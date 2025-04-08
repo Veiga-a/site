@@ -264,4 +264,3 @@ Brief description of the academic project, including the course it was part of, 
 :::
 :::
 :::
-

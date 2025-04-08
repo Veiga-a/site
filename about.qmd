@@ -5,7 +5,7 @@ subtitle: "My journey, skills, and aspirations"
 
 ::: {.about-grid}
 ::: {.about-image}
-![Profile Image](/placeholder.svg?height=300&width=300){.profile-img}
+![Profile Image](/placeholder.svg?height=300&width=300){.profile-img .gradient-border}
 :::
 
 ::: {.about-content}
@@ -31,7 +31,7 @@ I constantly seek to improve my technical and soft skills to become a well-round
 ::: {.timeline-item .timeline-left}
 ::: {.timeline-content}
 ::: {.timeline-date}
-2023 - Present
+2024 - Present
 :::
 
 ### Treasury Intern
@@ -56,7 +56,7 @@ As a treasury intern, I develop analytical and financial management skills that 
 ::: {.timeline-item .timeline-right}
 ::: {.timeline-content}
 ::: {.timeline-date}
-2021 - Present
+2022 - Present
 :::
 
 ### Data Science Degree
@@ -175,4 +175,3 @@ Native
 ::: {.highlight-box}
 I believe in continuous learning, collaboration, and creating solutions that make a positive impact. My approach to work is characterized by attention to detail, analytical thinking, and a commitment to quality.
 :::
-

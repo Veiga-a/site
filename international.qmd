@@ -253,4 +253,3 @@ If you're an international employer looking for a dedicated back-end developer w
 
 [Contact Me]{.btn .btn-lg .btn-primary}
 :::
-

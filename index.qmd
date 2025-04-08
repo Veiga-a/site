@@ -8,7 +8,7 @@ toc: false
 ::: {.hero-section}
 ![Profile Image](/placeholder.svg?height=180&width=180){.profile-img}
 
-# João Veiga
+<h1 class="hero-name">João Veiga</h1>
 
 ## Back-End Developer & Data Science Student
 
@@ -16,12 +16,12 @@ Passionate about creating efficient and scalable back-end solutions. Currently p
 
 ::: {.d-flex .justify-content-center .gap-3}
 [View Projects]{.btn .btn-primary}
-[Contact Me]{.btn .btn-outline-primary}
+[Contact Me]{.btn .btn-contact}
 :::
 :::
 
 ::: {.feature-grid}
-::: {.feature-card .card}
+::: {.feature-card .card .glass-card}
 ::: {.feature-icon}
 <i class="bi bi-code-slash"></i>
 :::
@@ -31,7 +31,7 @@ Passionate about creating efficient and scalable back-end solutions. Currently p
 Specialized in building robust and scalable server-side applications with modern technologies.
 :::
 
-::: {.feature-card .card}
+::: {.feature-card .card .glass-card}
 ::: {.feature-icon}
 <i class="bi bi-database"></i>
 :::
@@ -41,7 +41,7 @@ Specialized in building robust and scalable server-side applications with modern
 Combining programming skills with data analysis to extract meaningful insights and build data-driven solutions.
 :::
 
-::: {.feature-card .card}
+::: {.feature-card .card .glass-card}
 ::: {.feature-icon}
 <i class="bi bi-globe"></i>
 :::
@@ -107,7 +107,7 @@ Brief description of the project, highlighting the problem solved and the main f
 Python <span class="skill-level">90%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="width: 90%"}
+::: {.skill-progress style="--skill-width: 90%"}
 :::
 :::
 :::
@@ -117,17 +117,16 @@ Python <span class="skill-level">90%</span>
 JavaScript <span class="skill-level">85%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="width: 85%"}
+::: {.skill-progress style="--skill-width: 85%"}
 :::
 :::
 :::
-
 ::: {.skill-container}
 ::: {.skill-name}
 SQL <span class="skill-level">80%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="width: 80%"}
+::: {.skill-progress style="--skill-width: 80%"}
 :::
 :::
 :::
@@ -139,7 +138,7 @@ SQL <span class="skill-level">80%</span>
 Node.js <span class="skill-level">85%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="width: 85%"}
+::: {.skill-progress style="--skill-width: 85%"}
 :::
 :::
 :::
@@ -149,7 +148,7 @@ Node.js <span class="skill-level">85%</span>
 Django <span class="skill-level">80%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="width: 80%"}
+::: {.skill-progress style="--skill-width: 80%"}
 :::
 :::
 :::
@@ -159,7 +158,7 @@ Django <span class="skill-level">80%</span>
 Docker <span class="skill-level">75%</span>
 :::
 ::: {.skill-bar}
-::: {.skill-progress style="width: 75%"}
+::: {.skill-progress style="--skill-width: 75%"}
 :::
 :::
 :::
@@ -256,7 +255,7 @@ Connect with me professionally
 
 See my projects and contributions
 
-[Visit GitHub](https://github.com/Veiga-a/){.btn .btn-primary .mt-3}
+[Visit GitHub](https://github.com/Veiga-a/site){.btn .btn-primary .mt-3}
 :::
 
 ::: {.contact-card .card}
@@ -268,7 +267,7 @@ See my projects and contributions
 
 Get in touch directly
 
-[Send Email](mailto:jvicveiga@gmail.com){.btn .btn-primary .mt-3}
+[Send Email](mailto:your-email@example.com){.btn .btn-primary .mt-3}
 :::
 :::
 

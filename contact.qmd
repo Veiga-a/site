@@ -10,7 +10,7 @@ I'm always open to new opportunities, collaborations, or simply exchanging ideas
 :::
 
 ::: {.contact-grid}
-::: {.contact-card .card}
+::: {.contact-card .card .glass-card}
 ::: {.contact-icon}
 <i class="bi bi-linkedin"></i>
 :::
@@ -22,7 +22,7 @@ Connect with me professionally
 [Visit Profile](https://www.linkedin.com/in/joao-veiga1/){.btn .btn-primary .mt-3}
 :::
 
-::: {.contact-card .card}
+::: {.contact-card .card .glass-card}
 ::: {.contact-icon}
 <i class="bi bi-github"></i>
 :::
@@ -31,10 +31,10 @@ Connect with me professionally
 
 See my projects and contributions
 
-[Visit GitHub](https://github.com/Veiga-a){.btn .btn-primary .mt-3}
+[Visit GitHub](https://github.com/Veiga-a/site){.btn .btn-primary .mt-3}
 :::
 
-::: {.contact-card .card}
+::: {.contact-card .card .glass-card}
 ::: {.contact-icon}
 <i class="bi bi-envelope"></i>
 :::
@@ -43,13 +43,13 @@ See my projects and contributions
 
 Get in touch directly
 
-[Send Email](mailto:jvicveiga@gmail.com){.btn .btn-primary .mt-3}
+[Send Email](mailto:your-email@example.com){.btn .btn-primary .mt-3}
 :::
 :::
 
 ## Send a Message
 
-::: {.contact-form}
+::: {.contact-form .glass-card}
 <form action="https://formspree.io/f/your-formspree-endpoint" method="POST">
   <div class="mb-3">
     <label for="name" class="form-label">Name</label>
@@ -140,4 +140,3 @@ I typically respond to all professional inquiries within 24-48 hours. For urgent
 ::: {.text-center .mt-5}
 Thank you for your interest in connecting. I look forward to hearing from you!
 :::
-

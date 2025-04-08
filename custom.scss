@@ -1,15 +1,29 @@
 /*-- scss:defaults --*/
-// Base document colors
-$primary: #3498db;
-$secondary: #2c3e50;
-$body-bg: #f8f9fa;
-$body-color: #2c3e50;
-$link-color: #3498db;
-$navbar-bg: #2c3e50;
+// Nova paleta de cores mais interessante
+$primary: #6366f1;         // Indigo vibrante
+$secondary: #2e1065;       // Roxo escuro
+$success: #10b981;         // Verde esmeralda
+$info: #06b6d4;            // Ciano
+$warning: #f59e0b;         // Âmbar
+$danger: #ef4444;          // Vermelho
+$light: #f3f4f6;           // Cinza claro
+$dark: #1f2937;            // Cinza escuro quase preto
+
+$body-bg: #f8fafc;
+$body-color: #334155;
+$link-color: $primary;
+// Mudando a cor do cabeçalho e rodapé para combinar com os botões
+$navbar-bg: $primary;
 $navbar-fg: #ffffff;
-$navbar-hl: #3498db;
-$footer-bg: #2c3e50;
+$navbar-hl: #ffffff;
+$footer-bg: $primary;
 $footer-fg: #ffffff;
+
+// Aumentando os raios de borda para cantos mais arredondados
+$border-radius: 1rem;
+$border-radius-sm: 0.75rem;
+$border-radius-lg: 1.5rem;
+$border-radius-xl: 2rem;
 
 // Fonts
 $font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -18,11 +32,11 @@ $headings-font-weight: 600;
 
 // Card tweaks
 $card-border-width: 0;
-$card-border-radius: 0.5rem;
+$card-border-radius: $border-radius-lg;
 $card-cap-bg: transparent;
 
 // Button tweaks
-$btn-border-radius: 0.25rem;
+$btn-border-radius: $border-radius;
 
 /*-- scss:rules --*/
 h1, h2, h3, h4, h5, h6 {
@@ -34,6 +48,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2.5rem;
   font-weight: 700;
+  background: linear-gradient(90deg, $primary, $info);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 h2 {
@@ -46,29 +63,35 @@ h2 {
 h3 {
   font-size: 1.5rem;
   font-weight: 600;
+  color: $primary;
 }
 
+// Removendo os cantos arredondados do cabeçalho
 .navbar {
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 0;
 }
 
 .card {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
   overflow: hidden;
+  border-radius: $border-radius-lg;
 }
 
 .card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
 
 .btn-primary {
-  background-color: $primary;
+  background: linear-gradient(135deg, $primary, darken($primary, 10%));
   border-color: $primary;
   &:hover {
-    background-color: darken($primary, 10%);
+    background: linear-gradient(135deg, darken($primary, 5%), darken($primary, 15%));
     border-color: darken($primary, 10%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   }
 }
 
@@ -76,15 +99,40 @@ h3 {
   color: $primary;
   border-color: $primary;
   &:hover {
-    background-color: $primary;
+    background: linear-gradient(135deg, $primary, darken($primary, 10%));
     color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   }
 }
 
+// Removendo os cantos arredondados do rodapé
 .footer {
   margin-top: 4rem;
   padding: 2rem 0;
-  background-color: $footer-bg;
+  background: linear-gradient(135deg, $primary, darken($primary, 10%));
   color: $footer-fg;
+  border-radius: 0;
 }
 
+// Adicionando efeitos de glassmorphism
+.glass-effect {
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+// Botão de contato com cor branca
+.btn-contact {
+  background: linear-gradient(135deg, #ffffff, #f0f0f0);
+  border-color: #e0e0e0;
+  color: $primary;
+  &:hover {
+    background: linear-gradient(135deg, #f0f0f0, #e0e0e0);
+    border-color: #d0d0d0;
+    color: $primary;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+}
