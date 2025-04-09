@@ -43,13 +43,14 @@ See my projects and contributions
 
 Get in touch directly
 
-[Send Email](mailto:your-email@example.com){.btn .btn-primary .mt-3}
+[Send Email](mailto:jvicveiga@gmail.com){.btn .btn-primary .mt-3}
 :::
 :::
 
 ## Send a Message
 
 ::: {.contact-form .glass-card}
+```{=html}
 <form action="https://formspree.io/f/your-formspree-endpoint" method="POST">
   <div class="mb-3">
     <label for="name" class="form-label">Name</label>
@@ -73,6 +74,7 @@ Get in touch directly
   
   <button type="submit" class="btn btn-primary">Send Message</button>
 </form>
+```
 :::
 
 ## Availability
@@ -81,9 +83,9 @@ Get in touch directly
 ::: {.card-body}
 ### Current Status
 
-I am currently working as a treasury intern at Faurecia while completing my Data Science degree. I am open to:
+I am currently working as a Treasury Intern at Faurecia while completing my degree in Data Science. I'm open to:
 
-- Full-time opportunities in back-end development
+- Full-time, part-time, or internship roles in back-end development
 - Remote work possibilities
 - International positions, particularly in Europe and Canada
 - Freelance projects and collaborations

@@ -5,7 +5,7 @@ subtitle: "My journey, skills, and aspirations"
 
 ::: {.about-grid}
 ::: {.about-image}
-![](/placeholder.svg?height=300&width=300){.profile-img .gradient-border}
+![](https://github.com/Veiga-a.png){.profile-img .gradient-border}
 :::
 
 ::: {.about-content}
@@ -78,7 +78,6 @@ Currently in the 5th semester, focusing on finances and back-end development.
 #### FAE Centro Universitário
 ##### 2022 - Present (Expected graduation: 2026)
 
-- Relevant coursework: [List key courses]
 - Projects: 
     1. Implementation of an AI-driven solution that enables stock team members to independently build customized dashboards for tracking the production line.
     2. Development of a dashboard aimed at generating strategic insights into innovation within a specific city, supporting efforts to attract potential investors through data visualization and analysis.

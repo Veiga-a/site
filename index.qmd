@@ -6,17 +6,17 @@ toc: false
 ---
 
 ::: {.hero-section}
-![](/placeholder.svg?height=180&width=180){.profile-img}
+![](https://github.com/Veiga-a.png){.profile-img}
 
 <h1 class="hero-name">João Victor</h1>
 
-## Back-End Developer & Data Science Student
+<div class="section-subtitle">Back-End Developer & Data Science Student</div>
 
 Passionate about creating efficient and scalable back-end solutions. Currently pursuing a degree in Data Science and looking for international opportunities in Europe and Canada.
 
 ::: {.d-flex .justify-content-center .gap-3}
-[View Projects]{.btn .btn-primary}
-[Contact Me]{.btn .btn-contact}
+[View Projects](projects.qmd){.btn .btn-primary}
+[Contact Me](#get-in-touch){.btn .btn-contact}
 :::
 :::
 
@@ -136,7 +136,7 @@ SQL <span class="skill-level">80%</span>
 :::
 
 ::: {.text-center .mt-4}
-[View All Skills]{.btn .btn-primary}
+[View All Skills](skills.qmd){.btn .btn-primary}
 :::
 
 ## Experience
@@ -170,7 +170,7 @@ Currently in the 5th semester, focusing on data analysis, machine learning, and 
 :::
 
 ::: {.text-center .mt-4}
-[View Full Experience]{.btn .btn-primary}
+[View Full Experience](about.qmd#my-journey){.btn .btn-primary}
 :::
 
 ## International Aspirations
@@ -198,7 +198,7 @@ Attracted by the strong tech industry, favorable immigration policies for skille
 :::
 
 ::: {.text-center .mt-4}
-[My Global Career Goals]{.btn .btn-primary}
+[My Global Career Goals](international.qmd){.btn .btn-primary}
 :::
 
 ## Get In Touch
@@ -237,6 +237,6 @@ See my projects and contributions
 
 Get in touch directly
 
-[Send Email](mailto:your-email@example.com){.btn .btn-primary .mt-3}
+[Send Email](mailto:jvicveiga@gmail.com){.btn .btn-primary .mt-3}
 :::
 :::

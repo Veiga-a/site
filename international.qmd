@@ -101,12 +101,14 @@ I'm attracted by Canada's strong tech industry, favorable immigration policies f
 ::: {.card-body}
 ### Language Skills
 
-**English**: [Your level - e.g., Fluent, B2, etc.]
-- [Certification if applicable]
-- Regularly practice through [methods you use]
+**English**: C1 (Advanced)  
+- Regularly practiced through immersion
 
-**Other Languages**: [If applicable]
-- [Details]
+**Other Languages**:  
+- **Spanish** – B1 (Intermediate)  
+  Can handle everyday conversations, read simple texts, and write with some assistance.  
+- **German** – A1 (Beginner)  
+  Basic understanding of greetings, common expressions, and simple questions; currently learning.
 :::
 :::
 :::
@@ -251,5 +253,5 @@ I am fully prepared for relocation, including:
 ::: {.text-center .my-5}
 If you're an international employer looking for a dedicated back-end developer with data science skills, or if you have insights about working abroad in tech, I'd love to connect!
 
-[Contact Me]{.btn .btn-lg .btn-primary}
+[Contact Me](contact.qmd){.btn .btn-lg .btn-primary}
 :::

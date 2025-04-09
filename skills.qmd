@@ -255,7 +255,7 @@ Meticulous approach to code quality, testing, and documentation.
 ::: {.highlight-box}
 I am committed to continuous learning and staying updated with the latest technologies and best practices in back-end development and data science. Some of my recent learning initiatives include:
 
-- [Recent course or certification]
-- [Technology you're currently learning]
-- [Professional development activity]
+- Linux
+- Cybersecurity
+- Clean code
 :::
